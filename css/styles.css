@@ -1,0 +1,57 @@
+.index {
+    height: 100vh;
+}
+
+.vertical-center {
+    top: 30vh;
+}
+
+#main-menu {
+    margin-bottom: 10px;
+}
+
+#menu-items {
+    margin-top: 15px;
+}
+
+.title-box {
+    width: auto;
+    float: left;
+}
+
+.add-student {
+    width: auto;
+    padding: 15px 0px;
+}
+
+.add-form {
+    width: 100%;
+    /*padding: 35px;*/
+    /*margin-left: 60px;*/
+}
+
+.add-form label {
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.add-form .btn {
+    /*margin: 20px 10px 10px 10px;*/
+    width: 100%;
+}
+
+.statusmsg {
+    display: none;
+    text-align: left;
+    margin-bottom: 15px;
+    padding: 5px 10px;
+    background: #EDEDED;
+    border: 1px solid #DFDFDF;
+}
+
+.row-eq-height {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display:         flex;
+}
